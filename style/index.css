@@ -34,3 +34,27 @@
     border-radius: 5px;
     cursor: pointer;
 }
+.banner{
+    background-image: url("../images/backgroundimage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+
+}
+.banner-text{
+
+}
+.banner-headline{
+    color: rgb(241, 200, 14);
+    font-size: 50px;
+    height: 200px;
+    width: 400px;
+    padding: 50px 20px 30px 50px;
+}
+.disc{
+    height: 400px;
+    width: 400px;
+    font-size: 25px;
+    padding-left: 50px;
+}
